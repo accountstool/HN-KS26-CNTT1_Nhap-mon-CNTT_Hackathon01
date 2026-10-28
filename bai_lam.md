@@ -17,7 +17,7 @@ ls -a
 mv thoi_khoa_bieu.txt docs/
 mv logo_trung_tam_ngoai_ngu.png media/
 cp media/logo_trung_tam_ngoai_ngu.png backup/
-rm temp_213.tm
+rm temp_213.tmp
 ```
 
 ### Kết quả liệt kê toàn bộ dự án (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
