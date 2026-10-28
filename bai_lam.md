@@ -3,7 +3,7 @@
 - **Mã đề:** 13
 - **Họ tên:** Trần Mạnh Hoa
 - **Lớp:** CNTT1
-- **Link repository:** 
+- **Link repository:** https://github.com/accountstool/HN-KS26-CNTT1_Nhap-mon-CNTT_Hackathon01
 - **Hệ điều hành (Windows/macOS):** macOS
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
