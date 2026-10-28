@@ -10,7 +10,9 @@
 | :--- | :---: |
 
 | backup | Chứa file logo được backup |
+
 | data | Chứa file excel thống kê số lượng đăng ký và học phí |
+
 | logs | Ghi lại logs và báo cáo log |
 
 Lệnh liệt kê nội dung dự án :
